@@ -2,7 +2,7 @@
 
 So ... I'm a geek. And among other geeky things, I collect (and study) books by J.R.R. Tolkien.
 
-Twelve years ago (2001), I build a website to track all the different collectible editions of books by and about JRRT, as
+Twelve years ago (2001), I built a website to track all the different collectible editions of books by and about JRRT, as
 a way of leveling up my skills with PHP and MySQL.  This year I'm rebuilding it as a playground for practicing:
 
 * Rails 4
@@ -11,7 +11,7 @@ a way of leveling up my skills with PHP and MySQL.  This year I'm rebuilding it 
 * Hypermedia APIs with HAL+JSON
 * Some ideas I have for separating ORM and Resource concerns
 
-This is the code project. I can probably afford to work on it one night a week at best, so don't hold your breath. But hey, at least I got a first pass on the schema done tonight, after a few revisions.
+This is the code for that project. I can probably afford to work on it one night a week at best, so don't hold your breath. But hey, at least I got a first pass on the schema done tonight, after a few revisions.
 
 -Evan
 
