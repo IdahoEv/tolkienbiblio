@@ -1,28 +1,17 @@
-== README
+== Tolkien Bibliography Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+So ... I'm a geek. And among other geeky things, I collect (and study) books by J.R.R. Tolkien.
 
-Things you may want to cover:
+Twelve years ago (2001), I build a website to track all the different collectible editions of books by and about JRRT, as
+a way of leveling up my skills with PHP and MySQL.  This year I'm rebuilding it as a playground for practicing:
 
-* Ruby version
+* Rails 4
+* Singlepage JS frameworks (still haven't decided between Ember and Angular!)
+* PostgreSQL hstore
+* Hypermedia APIs with HAL+JSON
+* Some ideas I have for separating ORM and Resource concerns
 
-* System dependencies
+This is the code project. I can probably afford to work on it one night a week at best, so don't hold your breath. But hey, at least I got a first pass on the schema done tonight, after a few revisions.
 
-* Configuration
+-Evan
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
